@@ -43,16 +43,16 @@ Hi! I'm Konstantinos, a full-stack developer with experience building dynamic an
 ## 🌟 Featured Projects
 
 ### [🎥 Movie Database](https://github.com/felagund1789/movie-database)
-A movie database web application built using Vue.js and Vuetify, backed by the Open Movie Database API. It is designed as a responsive webapp and supports theming and dark mode. It supports "dark mode" styling, and by default it will follow the color preference on your device. The webapp is built using responsive design in mind, and by default it will adjust its content depending on the screen size of the medium (e.g. phone/computer).
+A movie database web application built using Vue.js and Vuetify, backed by the Open Movie Database API. It is designed as a responsive web app and supports theming and dark mode. It supports "dark mode" styling, and by default it will follow the color preference on your device. The web app is built using responsive design in mind, and by default it will adjust its content depending on the screen size of the medium (e.g. phone/computer).
 
 ### [🎮 Game Hub](https://github.com/felagund1789/game-hub)
-A video game discovery web app developed with React.js and TypeScript. Game Hub helps users find new and interesting games to play. With GameHub, the user can search for games by platform, genre, and more.
+A video game discovery web app developed with React.js and TypeScript. Game Hub helps users find new and interesting games to play. With GameHub, users can search for games by platform, genre, and more.
 
 ### [📇 Contacts](https://github.com/felagund1789/contacts)
 A contacts management web app built with Vue.js and Vuetify.
 
 ### [📅 Calendar Demo](https://github.com/felagund1789/calendar)
-A simple calendar application that focuses on CSS and front-end development practices. Created as a demo for a prospect client it uses [fullcalendar.io](https://fullcalendar.io/).
+A simple calendar application that focuses on CSS and front-end development practices. Created as a demo for a prospect client, it uses [fullcalendar.io](https://fullcalendar.io/).
 
 ### [🔲 QR Code Component](https://github.com/felagund1789/qr-code-component)
 A beginner-friendly project focused on HTML and CSS, perfect for those new to responsive web design.
