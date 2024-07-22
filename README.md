@@ -33,10 +33,10 @@ Hi! I'm Konstantinos, a passionate developer with a knack for building dynamic a
 ## 🌟 Featured Projects
 
 ### [🎥 Movie Database](https://github.com/felagund1789/movie-database)
-A movie database web application built using Vue.js and Vuetify, backed by the Open Movie Database API. Making of this project included integrating an open API and creating intuitive UI/UX designs.
+A movie database web application built using Vue.js and Vuetify, backed by the Open Movie Database API. It is designed as a responsive webapp and supports theming and dark mode. It supports "dark mode" styling, and by default it will follow the color preference on your device. The webapp is built using responsive design in mind, and by default it will adjust its content depending on the screen size of the medium (e.g. phone/computer).
 
 ### [🎮 Game Hub](https://github.com/felagund1789/game-hub)
-A video game discovery web app developed with React.js and TypeScript. Game Hub helps users find new and interesting games to play.
+A video game discovery web app developed with React.js and TypeScript. Game Hub helps users find new and interesting games to play. With GameHub, the user can search for games by platform, genre, and more.
 
 ### [📇 Contacts](https://github.com/felagund1789/contacts)
 A contacts management web app built with Vue.js and Vuetify.
