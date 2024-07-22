@@ -4,17 +4,21 @@
 
 ## About Me
 
-Hi! I'm Konstantinos, a passionate developer with a knack for building dynamic and engaging web applications. My focus is primarily on front-end development, utilizing modern frameworks and tools to create seamless user experiences. Below, you'll find a selection of my public repositories that showcase my skills and contributions.
+Hi! I'm Konstantinos, a full-stack developer with experience building dynamic and engaging web applications. Currently, my focus is primarily on front-end development, utilizing modern frameworks and tools (particularly React and Vue.js) to create seamless user experiences.
 
 ## 🛠️ Skills & Technologies
 
 - **Languages:** 
+  ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 - **Frameworks & Libraries:** 
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
   ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -25,10 +29,16 @@ Hi! I'm Konstantinos, a passionate developer with a knack for building dynamic a
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
+- **Databases:** 
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
 - **Tools & Platforms:** 
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ## 🌟 Featured Projects
 
