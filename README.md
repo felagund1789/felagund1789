@@ -35,14 +35,14 @@ Hi! I'm Konstantinos, a passionate developer with a knack for building dynamic a
 ### [🎥 Movie Database](https://github.com/felagund1789/movie-database)
 A movie database web application built using Vue.js and Vuetify, backed by the Open Movie Database API. Making of this project included integrating an open API and creating intuitive UI/UX designs.
 
-### [📅 Calendar Demo](https://github.com/felagund1789/calendar)
-A simple calendar application that focuses on CSS and front-end development practices. Created as a demo for a prospect client it uses [fullcalendar.io](https://fullcalendar.io/).
+### [🎮 Game Hub](https://github.com/felagund1789/game-hub)
+A video game discovery web app developed with React.js and TypeScript. Game Hub helps users find new and interesting games to play.
 
 ### [📇 Contacts](https://github.com/felagund1789/contacts)
 A contacts management web app built with Vue.js and Vuetify.
 
-### [🎮 Game Hub](https://github.com/felagund1789/game-hub)
-A video game discovery web app developed with React.js and TypeScript. Game Hub helps users find new and interesting games to play.
+### [📅 Calendar Demo](https://github.com/felagund1789/calendar)
+A simple calendar application that focuses on CSS and front-end development practices. Created as a demo for a prospect client it uses [fullcalendar.io](https://fullcalendar.io/).
 
 ### [🔲 QR Code Component](https://github.com/felagund1789/qr-code-component)
 A beginner-friendly project focused on HTML and CSS, perfect for those new to responsive web design.
