@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 
-![Konstantinos K](https://avatars.githubusercontent.com/u/16318784?s=128&v=4) <!-- replace with the actual avatar URL -->
+![Konstantinos Kokordelis](https://avatars.githubusercontent.com/u/16318784?s=128&v=4)
 
 ## About Me
 
@@ -9,16 +9,12 @@ Hi! I'm Konstantinos, a full-stack developer with experience building dynamic an
 ## 🛠️ Skills & Technologies
 
 - **Languages:** 
-  ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 - **Frameworks & Libraries:** 
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
   ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -45,8 +41,11 @@ Hi! I'm Konstantinos, a full-stack developer with experience building dynamic an
 ### [🎥 Movie Database](https://github.com/felagund1789/movie-database)
 A movie database web application built using Vue.js and Vuetify, backed by the Open Movie Database API. It is designed as a responsive web app and supports theming and dark mode. It supports "dark mode" styling, and by default it will follow the color preference on your device. The web app is built using responsive design in mind, and by default it will adjust its content depending on the screen size of the medium (e.g. phone/computer).
 
+### [🎵 Spotify Playlist Creator](https://github.com/felagund1789/spotify-playlist)
+Spotify Playlist Creator is a web application that allows users to create Spotify playlists. Built with React, TypeScript, and Chakra UI, this app leverages the Spotify API and a responsive design to provide an intuitive user experience.
+
 ### [🎮 Game Hub](https://github.com/felagund1789/game-hub)
-A video game discovery web app developed with React.js and TypeScript. Game Hub helps users find new and interesting games to play. With GameHub, users can search for games by platform, genre, and more.
+A video game discovery web app developed with React, TypeScript and Chakra UI. Game Hub helps users find new and interesting games to play. With GameHub, users can search for games by platform, genre, and more.
 
 ### [📇 Contacts](https://github.com/felagund1789/contacts)
 A contacts management web app built with Vue.js and Vuetify.
