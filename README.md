@@ -50,9 +50,6 @@ A video game discovery web app developed with React, TypeScript and Chakra UI. G
 ### [🍄 NES Character Selector](https://github.com/felagund1789/nes-character-selector)
 A simple web app built with React and styled using [NES.css](https://github.com/nostalgic-css/NES.css) to give it a nostalgic NES look and feel. This app allows users to select their favorite NES character from a list and displays a short description along with the games in which the character appears.
 
-### [📇 Contacts](https://github.com/felagund1789/contacts)
-A contacts management web app built with Vue.js and Vuetify.
-
 ### [📅 Calendar Demo](https://github.com/felagund1789/calendar)
 A simple calendar application that focuses on CSS and front-end development practices. Created as a demo for a prospect client, it uses [fullcalendar.io](https://fullcalendar.io/).
 
