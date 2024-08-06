@@ -47,6 +47,9 @@ Spotify Playlist Creator is a web application that allows users to create Spotif
 ### [🎮 Game Hub](https://github.com/felagund1789/game-hub)
 A video game discovery web app developed with React, TypeScript and Chakra UI. Game Hub helps users find new and interesting games to play. With GameHub, users can search for games by platform, genre, and more.
 
+### [📇 BusiNESs Card Generator](https://github.com/felagund1789/business-card-generator)
+BusiNESs Card Generator is a fun and retro-styled web app that showcases the potential of React and React Hook Form. This app serves as a proof of concept and a playful demonstration of [NES.css](https://github.com/nostalgic-css/NES.css), a CSS framework inspired by classic video games.
+
 ### [🍄 NES Character Selector](https://github.com/felagund1789/nes-character-selector)
 A simple web app built with React and styled using [NES.css](https://github.com/nostalgic-css/NES.css) to give it a nostalgic NES look and feel. This app allows users to select their favorite NES character from a list and displays a short description along with the games in which the character appears.
 
