@@ -37,7 +37,7 @@ Hi! I'm Konstantinos, a full-stack developer with experience building dynamic an
 - **Tools & Platforms:** 
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
@@ -46,11 +46,11 @@ Hi! I'm Konstantinos, a full-stack developer with experience building dynamic an
 ### [🎥 Movie Database](https://github.com/felagund1789/movie-database)
 A movie database web application built using Vue.js and Vuetify, backed by the Open Movie Database API. It is designed as a responsive web app and supports theming and dark mode. It supports "dark mode" styling, and by default it will follow the color preference on your device. The web app is built using responsive design in mind, and by default it will adjust its content depending on the screen size of the medium (e.g. phone/computer).
 
-### [🎵 Spotify Playlist Creator](https://github.com/felagund1789/spotify-playlist)
-Spotify Playlist Creator is a web application that allows users to create Spotify playlists. Built with React, TypeScript, and Chakra UI, this app leverages the Spotify API and a responsive design to provide an intuitive user experience.
-
 ### [🎮 Game Hub](https://github.com/felagund1789/game-hub)
 A video game discovery web app developed with React, TypeScript and Chakra UI. Game Hub helps users find new and interesting games to play. With GameHub, users can search for games by platform, genre, and more.
+
+### [🎵 Spotify Playlist Creator](https://github.com/felagund1789/spotify-playlist)
+Spotify Playlist Creator is a web application that allows users to create Spotify playlists. Built with React, TypeScript, and Chakra UI, this app leverages the Spotify API and a responsive design to provide an intuitive user experience.
 
 ### [📇 BusiNESs Card Generator](https://github.com/felagund1789/business-card-generator)
 BusiNESs Card Generator is a fun and retro-styled web app that showcases the potential of React and React Hook Form. This app serves as a proof of concept and a playful demonstration of [NES.css](https://github.com/nostalgic-css/NES.css), a CSS framework inspired by classic video games.
