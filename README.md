@@ -17,7 +17,11 @@ Hi! I'm Konstantinos, a full-stack developer with experience building dynamic an
 - **Frameworks & Libraries:** 
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
   ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+  ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white)
+  ![React Query](https://img.shields.io/badge/React_Query-%23FF4154.svg?style=flat-square&logo=react-query&logoColor=white)
+  ![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=flat-square&logo=react-router&logoColor=white)
+  ![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=flat-square&logo=Zustand&logoColor=white)
   ![tRPC](https://img.shields.io/badge/tRPC-2596be?style=flat-square&logo=trpc&logoColor=white)
   ![Zod](https://img.shields.io/badge/Zod-3178C6?style=flat-square&logo=zod&logoColor=white)
   ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
@@ -33,6 +37,7 @@ Hi! I'm Konstantinos, a full-stack developer with experience building dynamic an
 - **Tools & Platforms:** 
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
