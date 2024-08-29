@@ -59,7 +59,7 @@ BusiNESs Card Generator is a fun and retro-styled web app that showcases the pot
 A simple web app built with React and styled using [NES.css](https://github.com/nostalgic-css/NES.css) to give it a nostalgic NES look and feel. This app allows users to select their favorite NES character from a list and displays a short description along with the games in which the character appears.
 
 ### [👤 Login Form](https://github.com/felagund1789/login-form)
-A simple web application that demonstrates a basic login and signup form. The project is built using Vite, HTML5, CSS3, and JavaScript. It showcases a beautiful and responsive layout using modern CSS techniques and includes basic form validation using JavaScript.
+A simple web application that demonstrates a basic login and signup form. The project is built using Vite, HTML5, CSS3, and JavaScript. It showcases a beautiful and responsive layout using modern CSS techniques, uses a light and a dark theme using @media queries, and includes basic form validation using JavaScript.
 
 ### [📅 Calendar Demo](https://github.com/felagund1789/calendar)
 A simple calendar application that focuses on CSS and front-end development practices. Created as a demo for a prospect client, it uses [fullcalendar.io](https://fullcalendar.io/).
