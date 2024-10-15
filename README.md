@@ -49,6 +49,12 @@ A movie database web application built using Vue.js and Vuetify, backed by the O
 ### [🎮 Game Hub](https://github.com/felagund1789/game-hub)
 A video game discovery web app developed with React, TypeScript and Chakra UI. Game Hub helps users find new and interesting games to play. With GameHub, users can search for games by platform, genre, and more.
 
+### [🍿 Movierama](https://github.com/felagund1789/movierama)
+Movierama is yet another movie catalog where users can check the movies of the week, search for movies and view details about them. It uses The Movie DB (TMDB) JSON API as a backend and it is built using only TypeScript, HTML5, and CSS3. The app supports (automatic) light and dark modes and adjusts to the screen size of the device using responsive design.
+
+### [🍿 Movierama (React)](https://github.com/felagund1789/movierama-react)
+Movierama (React) is the same movie catalog app as Movierama, but built using React, TypeScript, and CSS3.
+
 ### [🎵 Spotify Playlist Creator](https://github.com/felagund1789/spotify-playlist)
 Spotify Playlist Creator is a web application that allows users to create Spotify playlists. Built with React, TypeScript, and Chakra UI, this app leverages the Spotify API and a responsive design to provide an intuitive user experience.
 
@@ -60,12 +66,6 @@ A simple web app built with React and styled using [NES.css](https://github.com/
 
 ### [👤 Login Form](https://github.com/felagund1789/login-form)
 A simple web application that demonstrates a basic login and signup form. The project is built using Vite, HTML5, CSS3, and JavaScript. It showcases a beautiful and responsive layout using modern CSS techniques, uses a light and a dark theme using @media queries, and includes basic form validation using JavaScript.
-
-### [📅 Calendar Demo](https://github.com/felagund1789/calendar)
-A simple calendar application that focuses on CSS and front-end development practices. Created as a demo for a prospect client, it uses [fullcalendar.io](https://fullcalendar.io/).
-
-### [🔲 QR Code Component](https://github.com/felagund1789/qr-code-component)
-A beginner-friendly project focused on HTML and CSS, perfect for those new to responsive web design.
 
 ## 📈 GitHub Stats
 
