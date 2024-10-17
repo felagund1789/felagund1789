@@ -43,28 +43,28 @@ Hi! I'm Konstantinos, a full-stack developer with experience building dynamic an
 
 ## 🌟 Featured Projects
 
-### [🎥 Movie Database](https://github.com/felagund1789/movie-database)
+### [🎥 Movie Database](https://github.com/felagund1789/movie-database) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
 A movie database web application built using Vue.js and Vuetify, backed by the Open Movie Database API. It is designed as a responsive web app and supports theming and dark mode. It supports "dark mode" styling, and by default it will follow the color preference on your device. The web app is built using responsive design in mind, and by default it will adjust its content depending on the screen size of the medium (e.g. phone/computer).
 
-### [🎮 Game Hub](https://github.com/felagund1789/game-hub)
+### [🎮 Game Hub](https://github.com/felagund1789/game-hub) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
 A video game discovery web app developed with React, TypeScript and Chakra UI. Game Hub helps users find new and interesting games to play. With GameHub, users can search for games by platform, genre, and more.
 
-### [🍿 Movierama](https://github.com/felagund1789/movierama)
+### [🍿 Movierama](https://github.com/felagund1789/movierama) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 Movierama is yet another movie catalog where users can check the movies of the week, search for movies and view details about them. It uses The Movie DB (TMDB) JSON API as a backend and it is built using only TypeScript, HTML5, and CSS3. The app supports (automatic) light and dark modes and adjusts to the screen size of the device using responsive design.
 
-### [🍿 Movierama (React)](https://github.com/felagund1789/movierama-react)
+### [🍿 Movierama (React)](https://github.com/felagund1789/movierama-react) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 Movierama (React) is the same movie catalog app as Movierama, but built using React, TypeScript, and CSS3.
 
-### [🎵 Spotify Playlist Creator](https://github.com/felagund1789/spotify-playlist)
+### [🎵 Spotify Playlist Creator](https://github.com/felagund1789/spotify-playlist) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
 Spotify Playlist Creator is a web application that allows users to create Spotify playlists. Built with React, TypeScript, and Chakra UI, this app leverages the Spotify API and a responsive design to provide an intuitive user experience.
 
-### [📇 BusiNESs Card Generator](https://github.com/felagund1789/business-card-generator)
+### [📇 BusiNESs Card Generator](https://github.com/felagund1789/business-card-generator) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 BusiNESs Card Generator is a fun and retro-styled web app that showcases the potential of React and React Hook Form. This app serves as a proof of concept and a playful demonstration of [NES.css](https://github.com/nostalgic-css/NES.css), a CSS framework inspired by classic video games.
 
-### [🍄 NES Character Selector](https://github.com/felagund1789/nes-character-selector)
+### [🍄 NES Character Selector](https://github.com/felagund1789/nes-character-selector) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 A simple web app built with React and styled using [NES.css](https://github.com/nostalgic-css/NES.css) to give it a nostalgic NES look and feel. This app allows users to select their favorite NES character from a list and displays a short description along with the games in which the character appears.
 
-### [👤 Login Form](https://github.com/felagund1789/login-form)
+### [👤 Login Form](https://github.com/felagund1789/login-form) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 A simple web application that demonstrates a basic login and signup form. The project is built using Vite, HTML5, CSS3, and JavaScript. It showcases a beautiful and responsive layout using modern CSS techniques, uses a light and a dark theme using @media queries, and includes basic form validation using JavaScript.
 
 ## 📈 GitHub Stats
