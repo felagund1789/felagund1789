@@ -20,14 +20,6 @@ Hi! I'm Konstantinos, a full-stack developer with experience building dynamic an
   ![React Query](https://img.shields.io/badge/React_Query-%23FF4154.svg?style=flat-square&logo=react-query&logoColor=white)
   ![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=flat-square&logo=react-router&logoColor=white)
   ![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=flat-square&logo=Zustand&logoColor=white)
-  ![tRPC](https://img.shields.io/badge/tRPC-2596be?style=flat-square&logo=trpc&logoColor=white)
-  ![Zod](https://img.shields.io/badge/Zod-3178C6?style=flat-square&logo=zod&logoColor=white)
-  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-  ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-  ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
 
 - **Databases:** 
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -48,6 +40,9 @@ Movierama is yet another movie catalog where users can check the movies of the w
 
 ### [🍿 Movierama (React)](https://github.com/felagund1789/movierama-react) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 Movierama (React) is the same movie catalog app as Movierama, but built using React, TypeScript, and CSS3.
+
+### [🐧DistroFinder](https://github.com/felagund1789/distrofinder) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+DistroFinder is a frontend-only web application built with React, TypeScript, and Vite that allows users to explore information about Linux distributions in a clean, fast, and visually consistent way. Its features include a searchable database of Linux distributions, a compare mode and a recommendation wizard that guides the user through questions to find the Linux distribution that matches their needs.
 
 ### [⚪🔴 Pokedex React app](https://github.com/felagund1789/pokedex-react-app) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 The Pokedex React app is a modern web application designed to provide comprehensive information about Pokemon. Built with the latest web technologies, this app offers a seamless and interactive user experience. The application leverages the power of React for building user interfaces, React Query for data fetching and state management, and React Router for navigation. The app uses the [PokeAPI](https://pokeapi.co/) as its primary data source.
