@@ -13,7 +13,6 @@ I am a full-stack developer with experience building dynamic and engaging web ap
   ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white)
   ![React Query](https://img.shields.io/badge/React_Query-FF4154.svg?style=flat-square&logo=react-query&logoColor=white)
   ![React Router](https://img.shields.io/badge/React_Router-CA4245.svg?style=flat-square&logo=react-router&logoColor=white)
-  ![Zustand](https://img.shields.io/badge/Zustand-000000.svg?style=flat-square&logo=Zustand&logoColor=white)
 
 - **Back-end:**
   ![Java](https://img.shields.io/badge/Java-%23000000?style=flat-square&logo=openjdk&logoColor=white)
@@ -38,7 +37,7 @@ I am a full-stack developer with experience building dynamic and engaging web ap
 
 ## 🌟 Featured Projects
 
-### [🍿 Movierama](https://github.com/felagund1789/movierama) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) !![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white)
+### [🍿 Movierama](https://github.com/felagund1789/movierama) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white)
 Movierama is yet another movie catalog where users can check the movies of the week, search for movies and view details about them. It uses The Movie DB (TMDB) JSON API as a backend and it is built using only TypeScript, HTML5, and CSS3. The app supports (automatic) light and dark modes and adjusts to the screen size of the device using responsive design.
 
 ### [🍿 Movierama (React)](https://github.com/felagund1789/movierama-react) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white)
